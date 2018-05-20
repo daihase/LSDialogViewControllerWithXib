@@ -1,0 +1,16 @@
+PODS:
+  - LSDialogViewController (1.0.0)
+
+DEPENDENCIES:
+  - LSDialogViewController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LSDialogViewController
+
+SPEC CHECKSUMS:
+  LSDialogViewController: d493fb4ef63654c5a950069a1e2bfb0cb2127f45
+
+PODFILE CHECKSUM: ce3d72f243220097e521519111f6ec15f8d09ef4
+
+COCOAPODS: 1.5.2
